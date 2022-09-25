@@ -1,0 +1,40 @@
+H1 { 
+    text-align: center 
+}
+TABLE {
+        width: 300px;
+        margin: auto;
+    border-collapse: collapse; 
+}
+   TD, TH {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+   }
+caption {
+    color: red;
+    font-size:20px;
+}
+.pink {
+background: pink   
+}
+.number {
+font-size: 15pt;
+text-align: right;
+margin-top: 3mm;
+margin-bottom: -7mm;
+margin-left: 0mm;
+}
+.element {
+    font-size: 18pt;
+    line-height: 28pt;
+    text-align: left;
+    margin-top: 0mm;
+    margin-bottom: 1mm;
+    margin-left: 3mm;
+    margin-right: 0mm;
+}
+.blue {
+    background-color: rgb(147, 202, 247);
+}
+.yellow {
+    background-color: rgba(245, 235, 143, 0.664);
